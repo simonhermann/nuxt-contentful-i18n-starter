@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-contentful-i18n-starter",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Starting point for Nuxt2 with contentful & multiple locales ",
+  "author": "simonhermann",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "contentful": "^7.0.5",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^5.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "vue-cli-plugin-i18n": "^0.5.1"
+  }
+}
