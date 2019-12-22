@@ -1,4 +1,4 @@
-# Starting point for Nuxt2 with contentful & multiple locales 
+# [Not maintained anymore] Starting point for Nuxt2 with contentful & multiple locales 
 
 i18n Documentation: 
 - nuxt-i18n: https://nuxt-community.github.io/nuxt-i18n/
